@@ -1,0 +1,4 @@
+El hilo3 ha procesado el número 6: no es primo->Tiempo: 0.311 seg 
+<----------------------------------------------------------------> 
+El hilo3 ha procesado el número 3: es primo->Tiempo: 0.0 seg 
+<-------------------------------------------------------------------> 

@@ -1,0 +1,4 @@
+El hilo1 ha procesado el número 5: es primo->Tiempo: 0.311 seg 
+<-------------------------------------------------------------------> 
+El hilo1 ha procesado el número 2: es primo->Tiempo: 0.0 seg 
+<-------------------------------------------------------------------> 

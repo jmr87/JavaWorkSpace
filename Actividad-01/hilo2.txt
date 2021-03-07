@@ -1,0 +1,4 @@
+El hilo2 ha procesado el número 32: no es primo->Tiempo: 1.249 seg 
+<----------------------------------------------------------------> 
+El hilo2 ha procesado el número 20: no es primo->Tiempo: 0.936 seg 
+<----------------------------------------------------------------> 
