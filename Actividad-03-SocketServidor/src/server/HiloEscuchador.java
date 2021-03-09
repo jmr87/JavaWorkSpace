@@ -11,7 +11,7 @@ public class HiloEscuchador implements Runnable {
 	private Thread hilo;
 	private static int numCliente = 0;
 	private Socket enchufeCliente;
-
+//
 	public HiloEscuchador(Socket cliente) {
 
 		numCliente++;
